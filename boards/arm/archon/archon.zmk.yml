@@ -1,0 +1,13 @@
+file_format: "1"
+id: archon
+name: Archon
+url: https://github.com/Grime-E/archon-shield-module.git
+type: board
+arch: arm
+features:
+  - keys
+  - encoder
+  - display
+outputs:
+  - usb
+  - ble

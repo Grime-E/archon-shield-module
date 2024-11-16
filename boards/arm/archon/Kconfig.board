@@ -1,0 +1,3 @@
+config BOARD_ARCHON
+	bool "archon"
+	depends on SOC_NRF52840_QIAA

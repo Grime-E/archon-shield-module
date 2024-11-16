@@ -1,0 +1,15 @@
+identifier: archon
+name: archon
+type: keyboard
+arch: arm
+toolchain:
+  - zephyr
+  - zmk
+supported:
+  - gpio
+  - i2c
+  - spi
+  - usb_device
+  - kscan
+  - ble
+
